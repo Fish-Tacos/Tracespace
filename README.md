@@ -227,12 +227,10 @@ See `CONTRIBUTING.md` for guidelines.
 
 ## 📧 Contact
 
-Built by [Your Name]
+Built by Fish-Tacos
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- Email: your.email@example.com
-
+- GitHub: [@Fish-Tacos](https://github.com/Fish-Tacos)
+- Email: mrfishypantsdude@gmail.com 
 ---
 
 ## 🙏 Acknowledgments
